@@ -1,0 +1,12 @@
+/* stylesheets for odin-recipes */
+* {
+  background-color: orange;
+  color: darkgreen;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  border: 20px bold darkgreen;
+  border-radius: 30px;
+}/*# sourceMappingURL=main.css.map */
