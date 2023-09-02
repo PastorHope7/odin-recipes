@@ -1,12 +1,57 @@
 /* stylesheets for odin-recipes */
+  @import url('https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,200&display=swap');
+
 * {
+  font-family: 'Literata', serif;
   background-color: orange;
   color: darkgreen;
   font-family: sans-serif;
   text-align: center;
+  padding: 3px;
+  
+}
+
+.main-page {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  flex-wrap: wrap;
+}
+
+.header {
+  
+}
+
+.main-content {
+  margin: 5px;
+}
+
+.footer {
+  
+}
+
+h1 {
+ 
+}
+
+h2 {
+  margin: 30px 0 0px 0;
 }
 
 img {
   border: 20px bold darkgreen;
-  border-radius: 30px;
+  border-radius: 15px;
+  width: 95%;
 }/*# sourceMappingURL=main.css.map */
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+margin: 5px;
+}
