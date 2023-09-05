@@ -14,7 +14,7 @@
 .main-page {
   display: flex;
   justify-content: center;
-  width: 100vw;
+  width: ;
   flex-wrap: wrap;
 }
 
@@ -27,7 +27,7 @@
 }
 
 .footer {
-  
+  margin-top: auto;
 }
 
 h1 {
